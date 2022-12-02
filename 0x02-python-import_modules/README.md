@@ -1,1 +1,1 @@
-The readm file for import modules projects
+# Solutions to tasks on modules
